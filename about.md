@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-## A little bit about me
+### A little bit about me
 
 ![image](https://user-images.githubusercontent.com/98718713/153688476-5b3832a7-fed7-42f1-8bae-35ae9754c86c.png)
 
